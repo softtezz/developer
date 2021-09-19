@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "developer",
-  "homepage": "https:/softtezz.github.io/developer",
+  "homepage": "https://softtezz.github.io/developer",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
