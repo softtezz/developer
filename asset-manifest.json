@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/softtezz.github.io/developer/static/css/main.59ced153.chunk.css",
-    "main.js": "/softtezz.github.io/developer/static/js/main.1ab28c62.chunk.js",
-    "main.js.map": "/softtezz.github.io/developer/static/js/main.1ab28c62.chunk.js.map",
-    "runtime-main.js": "/softtezz.github.io/developer/static/js/runtime-main.43c4b74e.js",
-    "runtime-main.js.map": "/softtezz.github.io/developer/static/js/runtime-main.43c4b74e.js.map",
-    "static/js/2.c32b93a4.chunk.js": "/softtezz.github.io/developer/static/js/2.c32b93a4.chunk.js",
-    "static/js/2.c32b93a4.chunk.js.map": "/softtezz.github.io/developer/static/js/2.c32b93a4.chunk.js.map",
+    "main.js": "/softtezz.github.io/developer/static/js/main.ae82b0fc.chunk.js",
+    "main.js.map": "/softtezz.github.io/developer/static/js/main.ae82b0fc.chunk.js.map",
+    "runtime-main.js": "/softtezz.github.io/developer/static/js/runtime-main.7ca84412.js",
+    "runtime-main.js.map": "/softtezz.github.io/developer/static/js/runtime-main.7ca84412.js.map",
+    "static/js/2.7699fd77.chunk.js": "/softtezz.github.io/developer/static/js/2.7699fd77.chunk.js",
+    "static/js/2.7699fd77.chunk.js.map": "/softtezz.github.io/developer/static/js/2.7699fd77.chunk.js.map",
     "index.html": "/softtezz.github.io/developer/index.html",
-    "precache-manifest.f3530cfd4f74f1484f41ab16a85161f5.js": "/softtezz.github.io/developer/precache-manifest.f3530cfd4f74f1484f41ab16a85161f5.js",
+    "precache-manifest.a1d81d125a946f4585eb714ea58e1eb3.js": "/softtezz.github.io/developer/precache-manifest.a1d81d125a946f4585eb714ea58e1eb3.js",
     "service-worker.js": "/softtezz.github.io/developer/service-worker.js",
     "static/css/main.59ced153.chunk.css.map": "/softtezz.github.io/developer/static/css/main.59ced153.chunk.css.map",
     "static/media/index.css": "/softtezz.github.io/developer/static/media/Montserrat-Regular.ee653992.ttf",
@@ -50,9 +50,9 @@
     "static/media/ui_ux_design.svg": "/softtezz.github.io/developer/static/media/ui_ux_design.67a6a11c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.43c4b74e.js",
-    "static/js/2.c32b93a4.chunk.js",
+    "static/js/runtime-main.7ca84412.js",
+    "static/js/2.7699fd77.chunk.js",
     "static/css/main.59ced153.chunk.css",
-    "static/js/main.1ab28c62.chunk.js"
+    "static/js/main.ae82b0fc.chunk.js"
   ]
 }

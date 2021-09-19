@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b15e908dbea48f72fb020d4df28628d",
+    "revision": "6dc20e636c99d0122dda6fa3f34a15e9",
     "url": "/softtezz.github.io/developer/index.html"
   },
   {
-    "revision": "bf837da394d6a31ca4f7",
+    "revision": "d1856f5e8bf4f6a0904d",
     "url": "/softtezz.github.io/developer/static/css/main.59ced153.chunk.css"
   },
   {
-    "revision": "509caa1c601c47bdd5f3",
-    "url": "/softtezz.github.io/developer/static/js/2.c32b93a4.chunk.js"
+    "revision": "9f8e808fd79686fcbcf2",
+    "url": "/softtezz.github.io/developer/static/js/2.7699fd77.chunk.js"
   },
   {
-    "revision": "bf837da394d6a31ca4f7",
-    "url": "/softtezz.github.io/developer/static/js/main.1ab28c62.chunk.js"
+    "revision": "d1856f5e8bf4f6a0904d",
+    "url": "/softtezz.github.io/developer/static/js/main.ae82b0fc.chunk.js"
   },
   {
-    "revision": "5fc492b0465dd4fb5d4f",
-    "url": "/softtezz.github.io/developer/static/js/runtime-main.43c4b74e.js"
+    "revision": "4ffe5ed983830f2e1e6c",
+    "url": "/softtezz.github.io/developer/static/js/runtime-main.7ca84412.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
