@@ -7,7 +7,7 @@ import { chosenTheme } from "./theme";
 import { GlobalStyles } from "./global";
 
 //Unique Google Analytics tracking number
-ReactGA.initialize('G-LLXRRYY9EJ');
+ReactGA.initialize('');
 function App() {
   return (
     <ThemeProvider theme={chosenTheme}>
