@@ -25,6 +25,15 @@ class Header extends Component {
         <SeoHeader />
         <div>
           <header className="header">
+               <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-LLXRRYY9EJ"></script>
+            <script>
+               window.dataLayer = window.dataLayer || [];
+               function gtag(){dataLayer.push(arguments);}
+               gtag('js', new Date());
+
+               gtag('config', 'G-LLXRRYY9EJ');
+            </script>
             <NavLink to={link} tag={Link} className="logo">
               <span style={{ color: theme.text }}> &lt;</span>
               <span className="logo-name" style={{ color: theme.text }}>
